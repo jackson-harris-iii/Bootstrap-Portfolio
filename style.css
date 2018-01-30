@@ -1,0 +1,118 @@
+body {
+  background: url(assets/images/escheresque_@2X.png) !important;
+  background-size:cover;
+  background-position-y: 50px;
+
+}
+h1, h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+	color: #4aaaa5;
+	font-weight: bolder;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-weight: bold;
+	text-align: center;	
+	font-size: 125%;
+	padding-top: 20px
+}
+
+.menuItems {
+    color: black;
+    font-size: 125%;
+}
+
+.navStyle {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+	border-bottom-width: 2px;
+    border-bottom-color: #cccccc;
+    padding: 0px;
+
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(66, 193, 190);
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(66, 193, 190, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.nameinwhite {
+	color: white;
+	margin-top: 0px;
+	text-align: center;
+	padding-top: 10px;
+    font-size: 200%;
+    vertical-align: center;
+}
+
+.myNav {
+    background-color: #4aaaa5;
+    height: 100px;
+    width: 250px;
+    vertical-align: center;
+    text-align: center;
+}
+/* .myContainer {
+  background: url(assets/images/escheresque_@2X.png) !important;
+  background-size:cover;
+  background-position-y: 50px;
+} */
+
+.mainContentHeader {
+    color: #4aaaa5;
+}
+
+.mainphoto {
+    min-width: 150px;
+}
+
+.legitwords {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 115%;
+	color: #777777;
+}
+
+#aboutcontent {
+    height: 500px;
+}
+
+.footer {
+    bottom: 0;
+    background-color: #666666;
+    border-top-color: #4aaaa5;
+    border-top-width: 10px;
+    border-style: solid;
+	text-align: center;
+    color: #cccccc;
+    position: fixed;
+    bottom: 0;
+    padding-top: 60px;
+    width: 100%;
+}
+
+.footerwords {
+    color: #cccccc;
+}
+
+.connectionsHeading{
+    text-align: center;
+    color: #4aaaa5;
+}
+
+.tinyimage {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 30px; 
+	width: 60px;
+	height: 60px;
+    display: inline;
+    
+
+}
